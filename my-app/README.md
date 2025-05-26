@@ -49,7 +49,7 @@ The Code Everest Bug Tracker is designed to be a powerful ally in your developme
 We welcome contributions from the community! Whether you're adding new features, fixing bugs, or improving documentation, your efforts help us summit Code Everest together. To get started:
 
 1. Fork the repository.
-2. Clone your fork: `git clone https://github.com/your-username/code-everest-demo.git`
+2. Clone your fork: `git clone https://github.com/amatlacz/code-everest-demo.git`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm run dev`
 5. Create a branch for your feature: `git checkout -b feature-name`
@@ -65,7 +65,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-Have questions or ideas? Reach out to the community via GitHub Issues, or contact the project maintainer, Adam Matłacz, at [adam.matlacz@example.com](mailto:adam.matlacz@example.com).
+Have questions or ideas? Reach out to the community via GitHub Issues, or contact the project maintainer, Adam Matłacz, at [adam@quare.dev](mailto:adam@quare.dev).
 
 ---
 
