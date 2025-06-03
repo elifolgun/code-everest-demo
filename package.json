@@ -4,10 +4,10 @@
   "private": true,
   "description": "Code Everest demo project for EuroSTAR 2025 workshop: Conquering Code Everest - Let AI Be Your Sherpa",
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "cd my-app && next dev --turbopack",
+    "build": "cd my-app && next build",
+    "start": "cd my-app && next start",
+    "lint": "cd my-app && next lint"
   },
   "dependencies": {
     "react": "^18.2.0",
